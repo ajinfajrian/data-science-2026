@@ -31,8 +31,6 @@ Seluruh lembar kerja berikut telah dieksekusi penuh secara bertahap dan memperta
 | **06** | **Data Preparation & Preprocessing Pipeline**<br>• One-Hot Encoding, StandardScaler, dan Stratified Train-Test Split. | Titanic Open Dataset | [Lihat Notebook Sesi 6](./Pertemuan6_Fajrian_Ichlasul_240401020100.ipynb) |
 | **07** | **Pengantar Machine Learning: Regresi Linear**<br>• Prediksi nilai kontinu (`fare`), evaluasi metrik MAE, RMSE, $R^2$, dan Residual plot. | Titanic Open Dataset | [Lihat Notebook Sesi 7](./Pertemuan7_Fajrian_Ichlasul_240401020100.ipynb) |
 
-_*) Catatan: Sesuaikan nama file tujuan di dalam tanda kurung `[...]` di atas (misal: `./Pertemuan1_IsiNama_IsiNIM.ipynb`) agar selaras dengan nama file asli di repositorimu sehingga tautan tidak mengalami Error 404._
-
 ---
 
 ## Spesifikasi Tools & Modules
